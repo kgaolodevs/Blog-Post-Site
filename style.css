@@ -26,8 +26,15 @@ h2 {
 
 .main-text {
   text-align: justify;
+  margin-bottom: 20px;
 }
 
 .author-text {
   font-size: 22px;
+}
+
+.container {
+  width: 1140px;
+  margin-left: auto;
+  margin-right: auto;
 }
