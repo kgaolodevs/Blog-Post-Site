@@ -37,4 +37,11 @@ h2 {
   width: 1140px;
   margin-left: auto;
   margin-right: auto;
+  outline: crimson 1px solid;
+}
+
+.blog-post {
+  width: 1140px;
+  height: 1140px;
+  background-color: #8b20356b;
 }
